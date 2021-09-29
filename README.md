@@ -393,7 +393,6 @@ base.mainloop()
 
 ボタン
 
-basic027.py
 ```python
 import tkinter as tk
 base = tk.Tk()
@@ -403,7 +402,6 @@ base.mainloop()
 
 複数ボタン
 
-basic028.py
 ```python
 import tkinter as tk
 base = tk.Tk()
@@ -415,7 +413,6 @@ base.mainloop()
 
 ボタンクリック後の動作
 
-basic029.py
 ```python
 import tkinter as tk
 base = tk.Tk()
@@ -429,7 +426,6 @@ base.mainloop()
 
 メッセージボックス
 
-basic033.py
 ```python
 import tkinter as tk
 import tkinter.messagebox as msg
